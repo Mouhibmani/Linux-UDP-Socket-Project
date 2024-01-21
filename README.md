@@ -13,12 +13,13 @@ This repository showcases a simple implementation of UDP client-server communica
 - [Additional requirements if any]
 
 ## Building and Running
+
 ### Client
 To build and run the client:
 ```bash
 ./script.sh Client.c Serveur.c
 ./client <server_address> <server_port>
-
+```
 ### Server
 To build and run the server:
 ```bash
